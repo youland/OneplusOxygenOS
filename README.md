@@ -1,15 +1,4 @@
-#Oneplus-8T
-
-Version
-11.0.5.6.KB05AA
-Updated on November 27, 2020
-MD5:a654f8ca30da0385d942a104d846f5c7
-https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.20_OTA_0200_all_2011132216_a6374d5b0e134ca7.zip
-
-Mirrors:
-https://drive.google.com/file/d/1SD5ytXkgzBU-yaQKGbiEHeCXFpP_4BCU/view?usp=sharing
-
-#Oneplus-8 Pro
+## OneplusOneplus-8 Pro
 
 
 Oneplus 8 Pro 全球版 氧OS 10.5.6
