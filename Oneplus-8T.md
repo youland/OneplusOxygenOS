@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1yBljKRf-pQvntwwh7lYwN0hPOGbEAVpu/view?usp=shari
 ## EU
 https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.17_GLO_0170_2010150108/OnePlus8TOxygen_15.E.17_OTA_0170_all_2010150108_77edc51b51680.zip
 
-https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.21_GLO_0210_2011132216/OnePlus8TOxygen_15.E.21_OTA_0210_all_2011132216_d2 e1e993.zip
+https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E.21_GLO_0210_2011132216/OnePlus8TOxygen_15.E.21_OTA_0210_all_2011132216_d2e1e993.zip
 
 
 ## IN
