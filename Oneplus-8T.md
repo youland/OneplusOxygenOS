@@ -26,4 +26,4 @@ https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.E
 ## IN
 https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.16_GLO_0160_2010150110/OnePlus8TOxygen_15.I.16_OTA_0160_all_2010150110_84be0c.zip
 
-https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.20_GLO_0200_2011132215/OnePlus8TOxygen_15.I.20_OTA_0200_all_2011132215_fe b8ca02ab.zip
+https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8TOxygen/OnePlus8TOxygen_15.I.20_GLO_0200_2011132215/OnePlus8TOxygen_15.I.20_OTA_0200_all_2011132215_feb8ca02ab.zip
