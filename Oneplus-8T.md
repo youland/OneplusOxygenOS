@@ -13,7 +13,7 @@ https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.20_OTA_0200_all_2011132216_a63
 
 Mirrors:  
 
-https://drive.google.com/file/d/1SD5ytXkgzBU-yaQKGbiEHeCXFpP_4BCU/view?usp=sharing
+https://drive.google.com/file/d/1SD5ytXkgzBU-yaQKGbiEHeCXFpP_4BCU/view?usp=sharing  
 https://drive.google.com/file/d/1yBljKRf-pQvntwwh7lYwN0hPOGbEAVpu/view?usp=sharing
 
 
